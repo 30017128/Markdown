@@ -2,7 +2,7 @@
 **The amazing sporty team**
 [linktothings](wwww.)
 
-![Team]Capitals-Maple_Leafs_(34075134291).jpg
+![Team]https://upload.wikimedia.org/wikipedia/commons/7/7a/Capitals-Maple_Leafs_%2834075134291%29.jpg
 
 ## Players
 
